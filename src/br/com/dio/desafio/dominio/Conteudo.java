@@ -2,7 +2,7 @@ package br.com.dio.desafio.dominio;
 
 public abstract class Conteudo {
 
-  protected static final double Xp_PADRAO=10d;
+    protected static final double  Xp_PADRAO= 10;
 
 
   private String titulo;
